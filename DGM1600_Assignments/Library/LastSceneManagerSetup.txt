@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/While_Loops.unity
+- path: Assets/Scenes/Arrays.unity
   isLoaded: 1
   isActive: 1
