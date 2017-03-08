@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\Arrays.cs" />
      <Compile Include="Assets\Scripts\Button1Script.cs" />
      <Compile Include="Assets\Scripts\If_Else_Statements.cs" />
+     <Compile Include="Assets\Scripts\List.cs" />
      <Compile Include="Assets\Scripts\LogicalOperators.cs" />
      <Compile Include="Assets\Scripts\MathOperators.cs" />
      <Compile Include="Assets\Scripts\Substration.cs" />
