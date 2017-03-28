@@ -48,12 +48,18 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Arrays.cs" />
      <Compile Include="Assets\Scripts\Button1Script.cs" />
+     <Compile Include="Assets\Scripts\For_Loops.cs" />
+     <Compile Include="Assets\Scripts\Foreach_Loops.cs" />
+     <Compile Include="Assets\Scripts\Functions_with_Parameters.cs" />
      <Compile Include="Assets\Scripts\If_Else_Statements.cs" />
      <Compile Include="Assets\Scripts\List.cs" />
+     <Compile Include="Assets\Scripts\ListHomework.cs" />
      <Compile Include="Assets\Scripts\LogicalOperators.cs" />
      <Compile Include="Assets\Scripts\MathOperators.cs" />
+     <Compile Include="Assets\Scripts\Scope_and_Access_Modifiers.cs" />
      <Compile Include="Assets\Scripts\Substration.cs" />
      <Compile Include="Assets\Scripts\Switch_While_Script.cs" />
+     <Compile Include="Assets\Scripts\Void_Function.cs" />
      <Compile Include="Assets\Scripts\Whie_L00ps.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>

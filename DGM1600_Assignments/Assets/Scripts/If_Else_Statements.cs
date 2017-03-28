@@ -8,12 +8,12 @@ public class If_Else_Statements : MonoBehaviour {
 	int apples = 40;
 	int students = 20;
 	int oranges = 0;
-    int c = 5;
+//    int c = 5;
     public int a = 10;
 	public int b = 20;
 	public int trafficLight = 3;
     public int speedLimit = 60;
-	int currentSpeed;
+	int currentSpeed = 0;
 
     // Use this for initialization
     void Start() {

@@ -6,7 +6,7 @@ public class Whie_L00ps : MonoBehaviour {
 	int numberOfEnemies = 25;
 	int dirtyDishes = 5;
 	int hamburgers = 10;
-	int hoursToDrive = 8;
+//	int hoursToDrive = 8;
 	int ouncesOfWater = 48;
 	int pounds = 200;
 	float timer = 2700.0f;
