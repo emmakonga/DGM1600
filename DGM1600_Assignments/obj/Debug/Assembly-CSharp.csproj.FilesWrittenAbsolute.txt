@@ -1,0 +1,17 @@
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/UnityEngine.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/UnityEditor.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/Mono.Cecil.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/Unity.DataContract.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/Mono.Cecil.Mdb.dll

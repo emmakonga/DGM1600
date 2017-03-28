@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CatList.unity
+- path: Assets/List Homework.unity
   isLoaded: 1
   isActive: 1

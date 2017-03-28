@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Arrays : MonoBehaviour {
 	public string[] names; 
-	public string[] name;  
+	public string[] names2;  
 	public string[] musicInfo; 
 	public string[] furniture;
 	public string[] sport;
