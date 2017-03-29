@@ -17,42 +17,41 @@ public class Foreach_Loops : MonoBehaviour
 //	string[] name2;
 //
 //	// Use this for initialization
-//	void Start () {
-//		
-//	
-//	
-//	// start first example 
-//	strings[0] = "First string";
-//	strings[1] = "Second string";
-//	strings[2] = "Third string";
-//	strings[3] = "Fourth string";
+//	void Start ()
+//	{
+//		// start first example 
+//		strings [0] = "First string";
+//		strings [1] = "Second string";
+//		strings [2] = "Third string";
+//		strings [3] = "Fourth string";
+//		{
+//			foreach (string item in strings)
+//				print (item);
 //
-//	foreach(string item in strings)	{
-//
-//	print(item);
-//
-//	//end first example
+//			//end first example
+//		}
+//	}
 //
 //	// start second example 
 //
-//	
+//
 //	print(item);
-//
-//	//end second example
-//
-//	// start third example 
-//	
-//
-//	//end third example
-//
+////
+////	//end second example
+////
+////	// start third example 
+////	
+////
+////	//end third example
+////
 //	// start fourth example 
-//	public void checkData()
+//	void checkData()
 //	{
 //	foreach(GameObject item in sphereList)	
 //	}
 //	print(item);
-//	//end fourth example
-//
+	//end fourth example
+
 //	// start fifth example
 //	public void checkData()
 //	{

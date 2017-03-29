@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/List Homework.unity
+- path: Assets/Scenes/For_Loops.unity
   isLoaded: 1
   isActive: 1
