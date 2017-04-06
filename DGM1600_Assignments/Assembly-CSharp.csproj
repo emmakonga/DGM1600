@@ -46,7 +46,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\AnotherClass.cs" />
      <Compile Include="Assets\Scripts\Arrays.cs" />
      <Compile Include="Assets\Scripts\Button1Script.cs" />
      <Compile Include="Assets\Scripts\For_Loops.cs" />
@@ -57,7 +56,8 @@
      <Compile Include="Assets\Scripts\ListHomework.cs" />
      <Compile Include="Assets\Scripts\LogicalOperators.cs" />
      <Compile Include="Assets\Scripts\MathOperators.cs" />
-     <Compile Include="Assets\Scripts\Scope_and_Access_Modifiers.cs" />
+     <Compile Include="Assets\Scripts\Scope_And_Access_Modifier_Scripts\AnotherClass.cs" />
+     <Compile Include="Assets\Scripts\Scope_And_Access_Modifier_Scripts\Scope_and_Access_Modifiers.cs" />
      <Compile Include="Assets\Scripts\Substration.cs" />
      <Compile Include="Assets\Scripts\Switch_While_Script.cs" />
      <Compile Include="Assets\Scripts\Void_Function.cs" />
