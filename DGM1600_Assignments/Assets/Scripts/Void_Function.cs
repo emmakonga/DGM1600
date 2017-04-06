@@ -2,21 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Void_Function : MonoBehaviour 
+public class Void_Function : MonoBehaviour {
+	public int weapon = 0;
+	public int function;
+	public string deepThought;
+	//private int MyFunction (bool myBool);
+	public int StrangeFunction;
 
-	{
-//	public int weapon = 0;
-//	public int function;
-//	public string deepThought;
-//	private int MyFunction (bool myBool);
-//	public int StrangeFunction;
-//	public int 
-//
 //	// start first example
-//		void Start ()
+
 //	{
 //		// Update is called once per frame
-//		void Update () 
+
 //	}
 //		if (Input.GetKey (KeyCode.Space))
 //	{
@@ -59,7 +56,7 @@ public class Void_Function : MonoBehaviour
 //		void Start (){
 //	
 //		myInt = 55;
-//		Debug.Log (myInt * 2);
+//		print (myInt * 2);
 //
 //		}
 //
@@ -102,13 +99,14 @@ public class Void_Function : MonoBehaviour
 //
 //		//start second example
 //
-//				GameObject player;
-//				void Start () {
-//					player = GameObject.FindWithTag("Player");
-//				}
-//				In UnityScript/JavaScript
+//		GameObject player;
+//		void Start () {
+//		player = GameObject.FindWithTag("Player");
+//		}
 //
-//				var player : GameObject;
+//
+//		/////////***** Change to C# *****
+//		 player : GameObject;
 //				function Start () {
 //					player = GameObject.FindWithTag("Player");
 //				}
@@ -119,5 +117,5 @@ public class Void_Function : MonoBehaviour
 //	}
 //
 //
-		
-} 
+//		
+}
