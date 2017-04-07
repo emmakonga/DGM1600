@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Scope_Access_Modifiers.unity
+- path: Assets/VoidFunctions.unity
   isLoaded: 1
   isActive: 1
