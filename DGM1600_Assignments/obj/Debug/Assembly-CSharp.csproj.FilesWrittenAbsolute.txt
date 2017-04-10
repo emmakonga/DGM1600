@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 /Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/Assembly-CSharp.dll.mdb
 /Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/Assembly-CSharp.dll
 /Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/obj/Debug/Assembly-CSharp.dll
 /Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/obj/Debug/Assembly-CSharp.dll.mdb
+=======
+>>>>>>> Functions_with_Parameters_EM
 /Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/UnityEngine.dll
 /Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/UnityEditor.dll
 /Users/emmanuelmakonga/DGM1600/DGM1600_Assignments/Temp/bin/Debug/UnityEngine.Analytics.dll

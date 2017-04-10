@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/VoidFunctions.unity
+=======
+- path: Assets/Scenes/FunctionsWithParameters.unity
+>>>>>>> Functions_with_Parameters_EM
   isLoaded: 1
   isActive: 1
