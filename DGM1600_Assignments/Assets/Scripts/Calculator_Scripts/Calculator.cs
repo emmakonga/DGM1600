@@ -9,6 +9,8 @@ public class Calculator:MonoBehaviour
 	public InputField Input;
 	public Button button;
 	public List<Text> FaillingButtons;
+	public Text gameOver;
+
 	int firstNum;
 	int secondNum;
 
@@ -23,6 +25,7 @@ public class Calculator:MonoBehaviour
 		{
 			item.text = Random.Range (1, 10).ToString ();
 		}
+		gameOver.text = "";
 	}
 
 	public void ButtonPressed ()
@@ -86,6 +89,14 @@ public class Calculator:MonoBehaviour
 			{
 				item.gameObject.SetActive (false);
 			}
+		}
+	}
+
+	void OnCollisionEnter(Collision col)
+	{
+		if (col.gameObject.name == "Plane")
+		{
+			gameOver.text = "Game Over";
 		}
 	}
 }
